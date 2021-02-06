@@ -1,2 +1,7 @@
-# apache-tika-docker-por
-Apache Tika in a Docker with Portuguese language only
+# Docker image for Apache Tika in Portuguese
+
+- This is a Apache Tika Docker image with only Portuguese language for Tesseract OCR.
+
+- Command to pull the image: `docker pull reneoctavio/apache-tika:por`
+
+- You can check https://hub.docker.com/r/apache/tika for further information.
